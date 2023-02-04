@@ -2,4 +2,4 @@ Este es un documento de ejemplo de control de versiones.
 Autor: Antonio J. Pérez-Luque
 
 Añade tu nombre a la lista siguiente: 
-- 
+- Ignacio García-Berro. "Donde entra el sol, no entra el doctor".
