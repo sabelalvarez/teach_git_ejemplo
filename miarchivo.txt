@@ -4,6 +4,7 @@ Autor: Antonio J. Pérez-Luque
 Añade tu nombre a la lista siguiente: 
 
 ## Curso 2023-2024: 
+- Armando Fernández Martín. "En la programación, como en la vida, la primera vez nunca funciona."
 - Carlos Eced Royo. "Me gustan los gatitos más que las palomitas y los ratoncitos. Los gatitos naranjas son mis favoritos."
 
 ## Curso 2022-2023 
