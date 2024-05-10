@@ -11,6 +11,7 @@ Añade tu nombre a la lista siguiente:
 - Nerea Gutiérrez Gordillo. "After all, the world is a stage and a stage is a world of entertainment"
 - Julia Losana García. "Ando buscando la manera que vivir, que me dibuje una sonrisa y solo te haga gracia a ti."
 - Álvaro González Sastre. "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad" Marco Aurelio
+- Sabela Álvarez López. "Cuanto más sabes, más te das cuenta de que no sabes nada" (Sócrates) (Y yo cada vez que abro Git Bash)
 
 ## Curso 2022-2023 
 - Ignacio García-Berro. "Donde entra el sol, no entra el doctor". Genial Nacho. Gracias por tu aportación. Por cierto la frase es tuya? 
